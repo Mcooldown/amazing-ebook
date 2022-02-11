@@ -1,0 +1,37 @@
+.c-bg-blue {
+    background-color: #3498DB;
+}
+
+.c-text-blue {
+    color: #3498DB;
+}
+
+.c-text-yellow {
+    color: #F4D03F;
+}
+
+.c-bg-yellow {
+    background-color: #F4D03F;
+}
+
+.c-nav-item {
+    cursor: pointer;
+}
+
+.c-nav-item:hover {
+    background-color: #f1d76d;
+}
+
+.main-wrapper {
+    min-height: 85vh;
+}
+
+.circle {
+    margin-top: 15vh;
+    padding: 9rem 2rem;
+    border-radius: 50%;
+    border: 3px solid #3498DB;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
